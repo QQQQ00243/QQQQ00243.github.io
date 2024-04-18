@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - nt4sth
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - nt4sth/Vibration-analysis-of-3D-freedom-system
+  - nt4sth/self-attention-based-geographical-interpolation-deep-learning
+  - nt4sth/Bayesian-Pandemic
+  - nt4sth/PyTorch-Chips-Binary-Classificaton
